@@ -1,0 +1,23 @@
+{
+  "name": "tavodlhoz-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tavodlhoz/tavodlhoz-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tavodlhoz/tavodlhoz-landing/issues"
+  },
+  "homepage": "https://github.com/Tavodlhoz/tavodlhoz-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
